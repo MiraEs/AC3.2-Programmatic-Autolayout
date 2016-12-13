@@ -134,4 +134,26 @@ Let's take a look at all three ways of defining a constraint programmatically!
 ---
 ### Exercises
 
-1. 
+### 1
+![Example 1](./Images/example_1.png)
+
+### 2 
+![Example 2](./Images/example_2.png)
+
+### 3
+![Example 3](./Images/example_3.png)
+
+### 4
+![Example 4](./Images/example_4.png)
+
+### 5
+![Example 5](./Images/example_5.png)
+
+### Bonus: Golden Ratio w/ Fib Sequence
+See [The Designer's guide to the golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)
+
+The Fibonacci sequence gets pretty close to the Golden Ration (1:1.618...). For this example, I'd like for you to step through the first few numbers in the sequence in order to draw out a `UIView` representation of the sequence for `[1, 1, 2, 3, 5, 8, 13]`
+
+**Double bonus** if you can do this task without hard-coding each view's values. You may solve this anyway you see fit, recursively inclusive. 
+
+![Fibo Bonus](./Images/bonus.png)
