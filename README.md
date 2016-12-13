@@ -144,7 +144,7 @@ Let's take a look at all three ways of defining a constraint programmatically!
 ![Example 3](./Images/example_3.png)
 
 ### 4
-![Example 4](./Image/example_4.png)
+![Example 4](./Images/example_4.png)
 
 ### 5
 ![Example 5](./Image/example_5.png)
