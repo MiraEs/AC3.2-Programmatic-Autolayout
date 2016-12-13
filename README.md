@@ -147,7 +147,7 @@ Let's take a look at all three ways of defining a constraint programmatically!
 ![Example 4](./Images/example_4.png)
 
 ### 5
-![Example 5](./Image/example_5.png)
+![Example 5](./Images/example_5.png)
 
 ### Bonus: Golden Ratio w/ Fib Sequence
 See [The Designer's guide to the golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)
